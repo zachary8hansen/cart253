@@ -15,7 +15,7 @@ function setup() {
   // Set up the canvas
 
   createCanvas(500,500);
-  background(0);
+  background(1);
 //spotlight
   noStroke()
   fill(220,230,290)
