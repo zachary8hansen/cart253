@@ -31,6 +31,8 @@ let squareY;
 
 let squareSize = 350;
 
+
+
 function preload() {
 
 }
@@ -41,7 +43,7 @@ function setup() {
   // Create our canvas
 
   createCanvas(640,640);
-background(0,0,0);
+background(0,210,89);
 
 
   // Start the circles off screen to the bottom left
